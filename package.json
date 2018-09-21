@@ -1,0 +1,23 @@
+{
+  "name": "simple-currency-formatter",
+  "version": "1.0.0",
+  "description": "Simple formatter for currency without using Intl.FormatNumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovsky0/simple-currency-formatter.git"
+  },
+  "keywords": [
+    "currency",
+    "formatter"
+  ],
+  "author": "arhey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kovsky0/currency-formatter/issues"
+  },
+  "homepage": "https://github.com/kovsky0/currency-formatter#readme"
+}
