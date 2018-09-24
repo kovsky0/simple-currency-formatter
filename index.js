@@ -44,4 +44,4 @@ function currency (value, symbol, decimals, options) {
   return sign + symbol
 }
 
-export default currency
+module.exports = currency
