@@ -1,6 +1,6 @@
 {
   "name": "simple-currency-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple formatter for currency without using Intl.FormatNumber",
   "main": "index",
   "scripts": {
