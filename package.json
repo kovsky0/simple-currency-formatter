@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kovsky0/currency-formatter/issues"
   },
-  "homepage": "https://github.com/kovsky0/currency-formatter#readme"
+  "homepage": "https://github.com/kovsky0/currency-formatter#readme",
+  "files": [
+    "index.js"
+  ]
 }
